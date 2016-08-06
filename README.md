@@ -1,5 +1,5 @@
 # abbr-plus
-HMTL5 element abbr enhancement: mobile friendly, glossary etc.
+HTML5 element abbr enhancement: mobile friendly, glossary etc.
 
 
 # Usage
@@ -13,7 +13,7 @@ HMTL5 element abbr enhancement: mobile friendly, glossary etc.
 - http://www.menucool.com/tooltip/css3-tooltip
 
 
-# Related resource
+# Related resources
 
 - [hint.css](https://github.com/chinchang/hint.css): tooltip in pure css, providing many styles. Give your element any position class and tooltip text using the `aria-label` or `data-hint` attribute
 - [Angular tooltips](https://github.com/720kb/angular-tooltips)
